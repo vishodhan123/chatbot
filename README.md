@@ -73,11 +73,7 @@ Run the FastAPI application:
 
 python main.py
 
-Access the application in your browser:
 
-Swagger UI: http://127.0.0.1:8080/docs
-
-ReDoc: http://127.0.0.1:8080/redoc
 
 7. Git Version Control
 
