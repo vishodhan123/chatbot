@@ -1,0 +1,29 @@
+# Python-specific ignores
+*.pyc
+*.pyo
+__pycache__/
+*.sqlite3
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# Ignore IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# Chunked data and generated files
+config/*.pkl
+config/*.index
+config/*.pdf
+
+# OS-specific ignores
+.DS_Store
+Thumbs.db
