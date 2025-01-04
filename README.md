@@ -182,13 +182,8 @@ chatbot/
 
 ---
 
-### **11. Enhancements and Future Work**
 
-- Add more preprocessing to handle large or complex PDFs.
-- Use Docker for consistent deployment.
-- Implement user authentication for the chatbot API.
 
 ---
 
-This documentation provides a comprehensive guide to setting up, running, and managing the chatbot project. If you have any questions or encounter issues, feel free to ask!
 
