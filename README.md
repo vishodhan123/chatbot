@@ -111,7 +111,7 @@ git push -u origin master
 
 Use Swagger UI or Postman to test the /chat endpoint:
 
-Endpoint: POST /api/v1/chat
+Endpoint: POST /api/v1/chat_bot
 
 Payload:
 
