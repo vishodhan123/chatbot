@@ -91,7 +91,7 @@ git init
 
 Add remote origin:
 
-git remote add origin git@github.com:vishodhan123/chatbot.git
+git remote add origin <repo>
 
 Standard Workflow for Git
 
